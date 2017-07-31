@@ -15,3 +15,8 @@
 <p><a href="https://learn.javascript.ru/" target="_blank"> Best online JavaScript tutorial on Russian language</a>
 <p>HTML/CSS
 <p><a href="https://htmlacademy.ru/" target="_blank"> HTML Academy</a>
+<p>3. Courses and certificates</p>
+<p>«Specialist» Computer Training Center at Bauman MSTU
+<p><a href="https://github.com/AndreyTichinsky/Resume/blob/master/HTML%26CSS.jpg">HTML/CSS certificate level 1</a>
+<p><a href="https://github.com/AndreyTichinsky/Resume/blob/master/JavaScriptLevelOne.jpg">JavaScript Level 1</a>
+<p><a href="https://github.com/AndreyTichinsky/Resume/blob/master/JavaScriptLevelTwo.jpg">JavaScript Level 2</a>
