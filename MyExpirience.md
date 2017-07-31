@@ -10,6 +10,6 @@
 <br>
 <p>2. Online education</p>
 <p>JavaScript
-<p>Codewars - website where programmers from all over the world can improving their programming skills in solving exercises
+<p>Codewars - website where programmers from all over the world can improve their programming skills in solving exercises
 <p><a href="https://www.codewars.com/users/AndreyTichinsky" target="_blank">My profile on CodeWars.com</a>
 <p><a href="https://learn.javascript.ru/" target="_blank"> Best online JavaScript tutorial on Russian language</a>
