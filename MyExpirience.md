@@ -7,7 +7,7 @@
 <p><a href="http://www.ozon.ru/context/detail/id/6287517/" target="_blank">JavaScript. Шаблоны Автор Стоян Стефанов</a>
 <p>CSS
 <p><a href="http://www.ozon.ru/context/detail/id/135731189/" target="_blank">Новая большая книга CSS Автор Дэвид МакФарланд</a>
-<br>
+<hr>
 <p>2. Online education</p>
 <p>JavaScript
 <p>Codewars - website where programmers from all over the world can improve their programming skills in solving exercises
@@ -15,6 +15,7 @@
 <p><a href="https://learn.javascript.ru/" target="_blank"> Best online JavaScript tutorial on Russian language</a>
 <p>HTML/CSS
 <p><a href="https://htmlacademy.ru/" target="_blank"> HTML Academy</a>
+<hr>
 <p>3. Courses and certificates</p>
 <p>«Specialist» Computer Training Center at Bauman MSTU
 <p><a href="https://github.com/AndreyTichinsky/Resume/blob/master/HTML%26CSS.jpg">HTML/CSS certificate level 1</a>
